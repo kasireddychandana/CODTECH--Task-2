@@ -73,3 +73,9 @@ The fifth row contains one label: 3.
 The sixth row has no labels.
 The code also creates a grid with six rows and six columns that displays the grades for the subject credits in alphabetical order.
 
+
+OUTPUT:
+
+![task2](https://github.com/user-attachments/assets/c051b480-3e11-4b81-9c17-4d3fd38f500b)
+
+
